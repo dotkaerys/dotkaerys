@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, eu sou o Kaerys 👋
 
-<!--
-**dotkaerys/dotkaerys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Ciência da Computação  
+☕ Focado em Java e desenvolvimento de software  
 
-Here are some ideas to get you started:
+## 🚀 Atualmente estudando
+- Java (POO, estruturas de dados)
+- Git e GitHub
+- Algoritmos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projetos
+- RPG em Java
+- Calculadora Swing
+- Exercícios de lógica
+
+## 📫 Contato
+- LinkedIn: ...
