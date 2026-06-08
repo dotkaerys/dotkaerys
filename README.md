@@ -9,11 +9,9 @@
 💻 Estudante de Ciência da Computação  
 ☕ Focado em Java e desenvolvimento de software  
 
-<div align="center">
 
-<img src="https://github.com/dotlk/dotlk/blob/104c851722338c6f65558b19af64a68e46573465/SPECIAL.svg" width="100%">
+<img src="SPECIAL.svg" width="25%">
 
-</div>
 
 
 graficos e etc
