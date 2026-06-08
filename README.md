@@ -16,8 +16,8 @@
 
 <div align="center">
 
-   <img src="windowheader.svg">
-   <img src="windowheader.svg">
+   <img src="WindowHeader.svg">
+   <img src="WindowHeader.svg">
 
 </div>
 <div aling = "center">
