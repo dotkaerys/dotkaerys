@@ -20,7 +20,7 @@
 
 </div>
 <div aling = "center">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dotlk&theme=react&bg_color=0d1117&color=2c6975&line=68b2a0&point=2c6975&area=true&hide_border=true" width="85%" alt="dotlk" />
+   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dotlk&theme=react)](https://github.com/dotlk/github-readme-activity-graph)
 
 </div>
 
