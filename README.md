@@ -20,7 +20,7 @@
 
 </div>
 <div aling = "center">
-   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dotlk&theme=react)](https://github.com/dotlk/github-readme-activity-graph)
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dotlk&theme=react)">
 
 </div>
 
