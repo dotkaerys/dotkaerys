@@ -17,7 +17,7 @@
 <div align="center">
 
    <img src="WindowHeader.svg">
-   <img src="WindowHeader.svg">
+
 
 </div>
 <div aling = "center">
@@ -27,4 +27,5 @@
 
 
 <img src="PERKS.svg" width="100%">
+
 
