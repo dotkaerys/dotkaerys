@@ -1,0 +1,20 @@
+<svg width="301" height="26" viewBox="0 0 301 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+<foreignObject x="-3" y="10" width="306" height="19"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(1.5px);clip-path:url(#bgblur_0_17_106_clip_path);height:100%;width:100%"></div></foreignObject><path data-figma-bg-blur-radius="3" d="M0 13H278L300 26L27 25L0 13Z" fill="#06212F" fill-opacity="0.7"/>
+<path d="M0 11C0 11 160.072 11 196 11M196 11H279L300.5 24M196 11L210 6H261" stroke="#044B4D"/>
+<path d="M207 6.5H108.5L93 10.5H196.5L207 6.5Z" fill="#00B1B7" fill-opacity="0.8"/>
+<g filter="url(#filter1_f_17_106)">
+<path d="M212 7.57143C169.567 7.57143 149.359 7 106.926 7L90 11H197.061L212 7.57143Z" fill="#00B1B7" fill-opacity="0.8"/>
+</g>
+<path d="M281.053 23L277.763 20.1038L277.664 20.0231L274.349 17H275.271L278.224 19.7692L278.262 19.8038L281.975 23H281.053ZM274 23L277.639 19.7115L278.062 20.1038L274.897 23H274ZM278.299 20.0577L277.863 19.6654L281.09 17H282L278.299 20.0577Z" fill="#2F638A"/>
+<rect x="260.25" y="18.25" width="4.5" height="4.5" stroke="#2F638A" stroke-width="0.5"/>
+<rect x="261.25" y="17.25" width="4.5" height="4.5" stroke="#2F638A" stroke-width="0.5"/>
+<line x1="244" y1="19.75" x2="251" y2="19.75" stroke="#2F638A" stroke-width="0.5"/>
+<defs>
+<clipPath id="bgblur_0_17_106_clip_path" transform="translate(3 -10)"><path d="M0 13H278L300 26L27 25L0 13Z"/>
+</clipPath><filter id="filter1_f_17_106" x="83" y="0" width="136" height="18" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="3.5" result="effect1_foregroundBlur_17_106"/>
+</filter>
+</defs>
+</svg>
