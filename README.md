@@ -1,3 +1,5 @@
+<img src="header.svg" width="100%"/>
+
 # Olá, eu sou o Kaerys 👋
 
 💻 Estudante de Ciência da Computação  
@@ -15,3 +17,5 @@
 
 ## 📫 Contato
 - LinkedIn: ...
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dotlk)](https://github.com/anuraghazra/github-readme-stats)
