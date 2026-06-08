@@ -21,6 +21,7 @@
 
 </div>
 <div aling = "center">
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dotlk)](https://github.com/dotlk/github-readme-stats)
 
 </div>
 
