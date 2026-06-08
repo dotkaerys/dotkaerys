@@ -21,7 +21,7 @@
 
 </div>
 <div aling = "center">
-   [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=dotlk)](https://github.com/stats-organization/github-stats-extended)
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dotlk&bg_color=0d1117&color=2c6975&line=68b2a0&point=2c6975&area=true&hide_border=true" width="85%" alt="dotlk" />
 
 </div>
 
