@@ -1,5 +1,4 @@
-<img src="header.svg" width="100%"/>
-
+![header](https://github.com/dotlk/dotlk/blob/9f9360551030f9a679e7cc8afe1b14903dcf2f5e/Header.svg)
 # Olá, eu sou o Kaerys 👋
 
 💻 Estudante de Ciência da Computação  
