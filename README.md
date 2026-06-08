@@ -18,4 +18,3 @@
 ## 📫 Contato
 - LinkedIn: ...
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dotlk)](https://github.com/anuraghazra/github-readme-stats)
